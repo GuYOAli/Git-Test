@@ -1,2 +1,1 @@
-yet another new line of code
-bug is fixed.
+hello new line of code
