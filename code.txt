@@ -1,1 +1,7 @@
-new line of code
+Age = 10;
+
+If age < 18:
+   print("Not Eligible")
+
+else:
+   print("Eligible")
