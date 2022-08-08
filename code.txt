@@ -1,7 +1,13 @@
 Age = 10;
 
-If age < 18:
-   print("Not Eligible")
+Def age(num):
 
-else:
-   print("Eligible")
+    If age < 18:
+   	print("Not Eligible")
+
+    else:
+        print("Eligible")
+
+
+age(age)
+
