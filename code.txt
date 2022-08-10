@@ -9,4 +9,5 @@ Def age(num):
         return "Eligible"
 
 
-age(age)
+result = age(age)
+print(result)
