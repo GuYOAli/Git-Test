@@ -3,11 +3,10 @@ Age = 10;
 Def age(num):
 
     If age < 18:
-   	print("Not Eligible")
+   	return "Not Eligible"
 
     else:
-        print("Eligible")
+        return "Eligible"
 
 
 age(age)
-
