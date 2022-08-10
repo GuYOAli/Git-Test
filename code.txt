@@ -1,4 +1,4 @@
-Age = 10;
+age = 10;
 
 Def age(num):
 
