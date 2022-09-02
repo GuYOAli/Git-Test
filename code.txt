@@ -11,5 +11,3 @@ Def age(num):
 
 result = age(age)
 print(result)
-
-// this just for testing.
